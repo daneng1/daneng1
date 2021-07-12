@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![https://unsplash.com/photos/Zq6HerrBPEs]
+![https://unsplash.com/photos/Zq6HerrBPEs](background)
 <!--
 **daneng1/daneng1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
