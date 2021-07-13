@@ -22,7 +22,7 @@ ___
 
 Prior to learning to code, I spent several years working in the commercial photography industry where I learned the value of collaboration, built a strong work ethic, and found that I'm pretty good at problem solving.
 
-Top5 qualities I bring to my work:
+Top 5 qualities I bring to my work:
 
 - Integrity
 - Generosity
@@ -74,3 +74,21 @@ Project Highlights:
 [Deployed Site](https://danengel-storefront.netlify.app/)
 
 ![](./assets/storefront.png)
+
+---
+---
+
+### *React To-Do App* - this is a dynamic to-do app that allows a user to enter a to-do item, see all items, update and delete existing items, filter and sort items.
+
+Project Highlights:
+
+- Full CRUD app.
+- Context state management.
+- MongoDB database for items.
+
+[To-Do Repo](https://github.com/daneng1/todo)
+
+[Deployed Site](https://react-todo-danengel.netlify.app/)
+
+![](./assets/to-do.png)
+
