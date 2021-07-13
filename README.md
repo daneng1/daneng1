@@ -1,17 +1,36 @@
-### Hi there 👋
+![background image](assets/github_header.jpg)
 
-![https://unsplash.com/photos/Zq6HerrBPEs](background)
-<!--
-**daneng1/daneng1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+🔭 I’m currently working on ...
+  - learning all about AWS services.
+  - refining my portfolio.
+   - making connections in the industry.
+
+📫 How to reach me:
+  - engeldb@gmail.com
+  - [Linkedin](https://www.linkedin.com/in/danengel-seattle/)
+
+😄 Pronouns: he/him
+
+___
+
+## Work History
+
+Prior to learning to code, I spent several years working in the commercial photography industry where I learned the value of collaboration, built a strong work ethic, and found that I'm pretty good at problem solving.
+
+Top5 qualities I bring to my work:
+
+- Integrity
+- Generosity
+- Dependable
+- Adaptable
+- Strong Communicator
+
+___
+
+## Portfolio
+
