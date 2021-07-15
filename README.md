@@ -72,7 +72,7 @@ Project Highlights:
 
 [Storefront Repo](https://github.com/daneng1/storefont)
 
-[Deployed Site](https://danengel-storefront.netlify.app/)
+<a href="https://danengel-storefront.netlify.app/" target="_blank">Deployed Site</a>
 
 ![Storefront](./assets/storefront.png)
 
@@ -89,7 +89,7 @@ Project Highlights:
 
 [To-Do Repo](https://github.com/daneng1/todo)
 
-[Deployed Site](https://react-todo-danengel.netlify.app/)
+<a href="https://react-todo-danengel.netlify.app/" target="_blank">Deployed Site</a>
 
 ![To-Do](./assets/to-do.png)
 
@@ -104,7 +104,7 @@ Project Highlights:
 
 [JavaScript Photo Gallery](https://github.com/daneng1/vanillaJSPhotoGallery)
 
-[Deployed Site](https://photogallery-danengel.netlify.app/)
+<a href="https://photogallery-danengel.netlify.app/" target="_blank">Deployed Site</a>
 
 ![Photo Gallery](./assets/photo-gallery.png)
 
