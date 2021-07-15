@@ -37,7 +37,8 @@ ___
 ### *REBU 2.0* - this was the final project for Code Fellows that my team built. It is an Uber clone that is built in React Native and uses Google Maps API.
 
 Project Highlights:
-- Built in just four days! 
+
+- Built in just four days!
 - Custom built server API that connects the front-end to our sign-up/login and MongoDB.
 - Users can register as a driver or rider.
 - Riders will get instant notifications when a driver accepts their ride, when the car has arrived for pick-up and when the the ride is completed.
@@ -73,7 +74,7 @@ Project Highlights:
 
 [Deployed Site](https://danengel-storefront.netlify.app/)
 
-![](./assets/storefront.png)
+![Storefront](./assets/storefront.png)
 
 ---
 ---
@@ -90,5 +91,20 @@ Project Highlights:
 
 [Deployed Site](https://react-todo-danengel.netlify.app/)
 
-![](./assets/to-do.png)
+![To-Do](./assets/to-do.png)
+
+---
+---
+
+### *Photo Gallery* - this is a photo gallery site that uses the Unsplash API to load the 60 most recently uploaded images. The site was built to be fully responsive and I only used HTML, CSS and JavaScript.
+
+Project Highlights:
+
+- Built using only HTML, CSS, and JavaScript
+
+[JavaScript Photo Gallery](https://github.com/daneng1/vanillaJSPhotoGallery)
+
+[Deployed Site](https://photogallery-danengel.netlify.app/)
+
+![Photo Gallery](./assets/photo-gallery.png)
 
