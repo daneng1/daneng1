@@ -109,3 +109,12 @@ Project Highlights:
 
 ![Photo Gallery](./assets/photo-gallery.png)
 
+---
+---
+
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daneng1&layout=compact)](https://github.com/daneng1/github-readme-stats)
+
+
+![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daneng1&show_icons=true&theme=dark)
