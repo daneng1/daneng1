@@ -13,6 +13,7 @@ ___
 📫 How to reach me:
   - engeldb@gmail.com
   - [Linkedin](https://www.linkedin.com/in/danengel-seattle/)
+  - [My Portfolio](https://danengel.webflow.io/)
 
 😄 Pronouns: he/him
 
@@ -32,7 +33,7 @@ Top 5 qualities I bring to my work:
 
 ___
 
-## Portfolio
+## [My Portfolio](https://danengel.webflow.io/)
 
 ### *REBU 2.0* - this was the final project for Code Fellows that my team built. It is an Uber clone that is built in React Native and uses Google Maps API.
 
