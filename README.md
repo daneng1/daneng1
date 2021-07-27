@@ -117,3 +117,5 @@ Project Highlights:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daneng1&theme=merko&langs_count=8)
 
 ![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daneng1&show_icons=true&theme=dark)
+
+### Design inspired by [Fizzo Pannosh](https://github.com/fizzo999) and [Hexx King](https://github.com/HexxKing)
