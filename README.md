@@ -1,6 +1,5 @@
 ![background image](assets/github_header.jpg)
 
-
 ___
 
 ## About Me
@@ -8,7 +7,7 @@ ___
 🔭 I’m currently working on ...
   - learning all about AWS services.
   - refining my portfolio.
-   - making connections in the industry.
+   - making connections in the industry and finding a job!
 
 📫 How to reach me:
   - engeldb@gmail.com
@@ -40,7 +39,7 @@ ___
 Project Highlights:
 
 - Built in just four days!
-- Custom built server API that connects the front-end to our sign-up/login and MongoDB.
+- Custom built server API that connects the front-end to our sign-up/login API and MongoDB.
 - Users can register as a driver or rider.
 - Riders will get instant notifications when a driver accepts their ride, when the car has arrived for pick-up and when the the ride is completed.
 - Start and end location auto-complete using Google Maps.
