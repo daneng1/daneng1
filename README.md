@@ -5,9 +5,9 @@ ___
 ## About Me
 
 🔭 I’m currently working on ...
-  - learning all about AWS services.
+  - learning all about AWS services, SQL and React Native.
   - refining my portfolio.
-   - making connections in the industry and finding a job!
+  - making connections in the industry and finding a job!
 
 📫 How to reach me:
   - engeldb@gmail.com
@@ -33,6 +33,24 @@ Top 5 qualities I bring to my work:
 ___
 
 ## [My Portfolio](https://danengel.webflow.io/)
+
+---
+
+### Focus Time - this is a mobile app that allows the user to input what they want to focus on and then select an amount of time to focus on that subject.
+
+Project Highlights:
+
+- utilizes Expo CLI and React Native for cross-platform development.
+- users can enter a focus subject and see a history of past focus subjects.
+- completed subjects are colored green and incomplete subjects are colored red.
+- timer can be set to 1, 5, 10, 20 or 30 minutes.
+
+[GitHub Repo](https://github.com/daneng1/focusTime)
+
+![Focus Time](./assets/focus_app.gif)
+
+---
+---
 
 ### *REBU 2.0* - this was the final project for Code Fellows that my team built. It is an Uber clone that is built in React Native and uses Google Maps API.
 
