@@ -2,7 +2,7 @@
 
 ___
 
-## About Me
+## 👨🏼‍🦲 About Me
 
 🔭 I’m currently working on ...
   - building iOS apps and refining my React skills
@@ -23,9 +23,9 @@ Since 2021, I have worked in heath care tech at CareRev, where I've had the grea
 
 ___
 
-## Languages, Libraries and Frameworks I Know
+## 💻 Languages, Libraries and Frameworks I Know
 
-### iOS
+### 📱  iOS
 
 - Swift
 - UIKit
@@ -36,7 +36,7 @@ ___
 - RXSwift
 - UI Testing and XCTest
 
-### Web
+### 🖥️  Web
 
 - Javascript
 - Typescript
@@ -51,21 +51,21 @@ ___
 
 ___
 
-## 🌟 Professional Competencies
+## 💪🏻 Professional Competencies
 
-### Growth Mindset:
+### 🏋🏼‍♀️ Growth Mindset:
 
 - Welcome ambiguous situations and solve problems with agility
 - Envision beyond the responsibility of my role
 - Embrace every opportunity to learn and grow as a professional
 
-### Diverse and Inclusive:
+### 👩🏾🧑🏻 Diversity and Inclusion:
 
 - Empower every person to achieve more
 - Influencing others by encouraging communication
 - Create a safe working environment for everyone
 
-### Leadership & Collaboration:
+### 🫱🏽‍🫲🏾 Leadership & Collaboration:
 
 - Effectively communicating within a team and across teams
 - Positively influencing others through my actions and words
