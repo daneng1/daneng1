@@ -1,13 +1,13 @@
-![background image](assets/github_header.jpg)
+![background image](assets/GitHub_Banner.jpg)
 
 ___
 
 ## About Me
 
 🔭 I’m currently working on ...
-  - learning all about AWS services, SQL and React Native.
-  - refining my portfolio.
-  - making connections in the industry and finding a job!
+  - building iOS apps and refining my React skills
+  - learning, learning, learning!
+  - making connections in the industry
 
 📫 How to reach me:
   - engeldb@gmail.com
@@ -20,7 +20,7 @@ ___
 
 ## Work History
 
-Prior to learning to code, I spent several years working in the commercial photography industry where I learned the value of collaboration, built a strong work ethic, and found that I'm pretty good at problem solving.
+Since 2021, I have worked in heath care tech at CareRev, where I've had the great fortune to work on both their web app in React and their iOS app in Swift. This has given me a stronger understanding of how the user experience plays out across multiple platforms while also growing my strengths in front-end development.
 
 Top 5 qualities I bring to my work:
 
@@ -32,9 +32,6 @@ Top 5 qualities I bring to my work:
 
 ___
 
-## [My Portfolio](https://danengel.webflow.io/)
-
----
 
 ### Focus Time - this is a mobile app that allows the user to input what they want to focus on and then select an amount of time to focus on that subject.
 
